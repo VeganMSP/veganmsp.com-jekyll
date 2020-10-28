@@ -9,10 +9,13 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-target-blank
+  - jekyll-paginate
 sass:
   style: compressed
 target-blank:
   noreferrer: false
+paginate: 5 # x posts per page
+paginate_path: /blog/page/:num
 defaults:
   -
     scope:
