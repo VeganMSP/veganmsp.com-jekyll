@@ -1,0 +1,23 @@
+title: VeganMSP.com
+email: webmaster@veganmsp.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Just another vegan information site.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-target-blank
+sass:
+  style: compressed
+target-blank:
+  noreferrer: false
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      enableMenu: false
+      layout: main
