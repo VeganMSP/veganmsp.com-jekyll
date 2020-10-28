@@ -10,7 +10,8 @@ permalink: /restaurants/minneapolis/
 [Pizza Nea][pizzanea] – “Pizza Perfection in the Neapolitan Tradition”
 
 [Herbivorous Butcher][hb] – the first all-vegan, meat-free butcher in
-the United States opened in 2016. Specializing in super small batch 100% vegan meats and cheeses.
+the United States opened in 2016. Specializing in super small batch 100%
+vegan meats and cheeses.
 
 [Glam Doll Donuts][glamdoll-ne] – “GD-NE features expanded menu
 offerings (including beer and donut pairings!), rotating art gallery,
@@ -29,8 +30,8 @@ in vegan treats.”Midway
 # Powderhorn
 
 [May Day Cafe][maydaycafe][^1] – “Vegan groceries and world renowned
-organic, scratch
-made vegan food. Our menu is always changing, we never repeat a recipe, if you want to know, you got to go.”
+organic, scratch made vegan food. Our menu is always changing, we never
+repeat a recipe, if you want to know, you got to go.”
 
 [maydaycafe]:https://eurekacompassveganfood.com/
 
@@ -40,19 +41,26 @@ made vegan food. Our menu is always changing, we never repeat a recipe, if you w
 restaurant with a focus on being environmentally friendly.
 
 [Galactic Pizza][galactic-pizza] – a retro-style pizzeria on Lyndale
-Avenue. They have vegan options and deliver pizza in a superhero outfit. They also have indoor and outdoor dining.
+Avenue. They have vegan options and deliver pizza in a superhero outfit.
+They also have indoor and outdoor dining.
 
 [Glam Doll Donuts][glamdoll-uptown] – “This is the Dolls’ first
-fantasyland featuring a photobooth, a loungy patio, and a rotating collection of artwork from area artists.”
+fantasyland featuring a photobooth, a loungy patio, and a rotating
+collection of artwork from area artists.”
 
 [moto-i][moto-i] – “moto-i Ramen and Sake House is the first sake brew
-pub outside of Japan, located located at the corner of Lyndale and Lake Street in the Lyn-Lake neighborhood.”
+pub outside of Japan, located located at the corner of Lyndale and Lake
+Street in the Lyn-Lake neighborhood.”
 
 [New Bohemia Wurst + BierHaus][new-bohemia] – “New Bohemia Wurst and
-Bier House is the transformation of a traditional bier hall into what we like to call the “New American Craft Bier Hall” pouring 36 of the finest local and International Craft beers in the country.”
+Bier House is the transformation of a traditional bier hall into what we
+like to call the “New American Craft Bier Hall” pouring 36 of the finest
+local and International Craft beers in the country.”
 
 [World Street Kitchen][wsk] – “The bright and fun brainchild of brothers
-Sameh and Saed Wadi, World Street Kitchen is the year-round neighborhood restaurant built from the popularity of their WSK food truck. Featuring flavors from across the globe – from Asia to the Caribbean to the Mediterranean and everything in between — the restaurant serves popular staples, specials, sweets and cocktails in one friendly spot.”
+Sameh and Saed Wadi, World Street Kitchen is the year-round neighborhood
+restaurant built from the popularity of their WSK food truck. Featuring
+flavors from across the globe – from Asia to the Caribbean to the Mediterranean and everything in between — the restaurant serves popular staples, specials, sweets and cocktails in one friendly spot.”
 
 [fig+farro]:https://www.figandfarro.com/
 [galactic-pizza]:http://galacticpizza.com/

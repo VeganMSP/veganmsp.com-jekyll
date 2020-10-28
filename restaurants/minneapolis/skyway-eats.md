@@ -5,7 +5,10 @@ permalink: /restaurants/minneapolis/skyway-eats/
 
 
 
-The following is a list of restaurants and other places in the Minneapolis Skyway that offer vegan options. Keep in mind that most places in the skyway close after lunchtime (typically around three in the afternoon).
+The following is a list of restaurants and other places in the
+Minneapolis Skyway that offer vegan options. Keep in mind that most
+places in the skyway close after lunchtime (typically around three in
+the afternoon).
 
 * Aloha Poke
 * Angel Food Bakery

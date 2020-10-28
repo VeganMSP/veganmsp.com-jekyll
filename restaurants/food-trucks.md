@@ -10,7 +10,8 @@ The following food trucks are all-vegan:
 [The Herbivorous Butcher Food Truck][hbft]
 
 [The Reverie][reverie-ft] – The Reverie used to be located at the corner
-of Franklin & Nicollet. Now, while they search for another space, they became a mobile kitchen!
+of Franklin & Nicollet. Now, while they search for another space, they
+became a mobile kitchen!
 
 [J. Selby’s Food Truck][jmobile] – “The Plant Based Eatery Gone Mobile.”
 They concentrate on St. Paul and the East Metro.
