@@ -1,0 +1,28 @@
+---
+layout: main
+---
+
+<p>
+	Welcome to VeganMSP.com!
+</p>
+<p>
+	It’s easy being vegan in Minneapolis and St. Paul, but it can be hard to
+	know where to start, or where to look for information and answers. We
+	aim to fix that.
+</p>
+<p>
+	At VeganMSP.com you will find restaurant and food guides, shopping
+	guides, and other information to help you on your vegan journey.
+</p>
+
+<h2>Recent Posts</h2>
+<div class="recent-posts">
+  {% for post in site.posts limit:5 %}
+  <div class="post-stub">
+    {{ post.date || date: "%Y-%m-%d" }}
+    <a class="recent-post-link" href="{{ post.url }}">
+      {{ post.title }}
+    </a>
+  </div>
+  {% endfor %}
+</div>
