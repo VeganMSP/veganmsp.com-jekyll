@@ -3,5 +3,33 @@ layout: base
 ---
 
 <div class="content">
-	{{ content }}
+	{% if page.url contains '/archive/' %}
+	{% else %}
+	{% unless page.url == '/' %}
+	<div class="meta date">
+		{% if page.date %}Published {{ page.date | date: "%Y-%m-%d" }}{% endif %}
+		on <a href="/">{{ site.title }}</a>
+		<span class=" hidden-xs">
+			&mdash;
+			<a href="{{ page.url }}">
+				Permalink
+			</a>
+		</span>
+		<div class="page-tags hidden-xs">
+			{% if page.tags.size >= 1 %}
+				Tags:
+				{{ page.tags | join: ", "}}
+        <!--{% for tag in page.tags %}
+          {% capture tag_name %}{{ tag }}{% endcapture %}
+          <a href="/tag/{{ tag_name }}">{{ tag_name }}</a>
+          {{ tag_name }}
+          {% endfor %}-->
+      {% endif %}
+    </div>
+  </div>
+  {% endunless %}
+  {% endif %}
+  <div class="page-content">
+  {{ content }}
+  </div>
 </div>
