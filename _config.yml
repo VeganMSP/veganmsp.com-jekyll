@@ -7,18 +7,31 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 markdown: kramdown
 plugins:
+  # generates rss feed of posts
   - jekyll-feed
+  # sets all external links to target="_blank"
   - jekyll-target-blank
+  # for pagination
   - jekyll-paginate
 sass:
   style: compressed
+
+# jekyll-target-blank settings
 target-blank:
   noreferrer: false
+
+# jekyll-paginate settings
 paginate: 5 # x posts per page
 paginate_path: /blog/page/:num
+
+collections:
+  posts:
+    permalink: /blog/:year/:month/:day/:title:output_ext
+
+# default frontmatter settings
 defaults:
   -
-    scope:
+    scope: # scope: all
       path: ""
       type: "pages"
     values:
