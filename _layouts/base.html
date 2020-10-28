@@ -12,7 +12,13 @@
 <body>
 	<div class="container">
 		<header>
-			<h1>VeganMSP.com</h1>
+			<h1 class="page-title">
+         {% if page.title %}
+         {{ page.title }}
+         {% else %}
+         {{ site.title }}
+         {% endif %}
+       </h1>
 			<div class="tagline">Just another vegan information site.</div>
 		</header>
 

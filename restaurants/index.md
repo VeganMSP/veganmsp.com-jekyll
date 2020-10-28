@@ -6,8 +6,6 @@ enableMenu: true
 order: 1
 ---
 
-# Restaurants
-
 * [Vegan Restaurants](vegan-restaurants/)
 * [Minneapolis Restaurants](minneapolis/)
   * [Skyway Eats](minneapolis/skyway-eats/)
