@@ -4,6 +4,10 @@ permalink: /groups-and-links/
 enableMenu: true
 ---
 
+<h2>Table of Contents</h2>
+* TOC
+{:toc}
+
 # Vegan and Aminal Rights Organizations in MSP
 
 [Animal Rights Coalition][arc] – the ARC works to end animal suffering,
