@@ -3,6 +3,7 @@ layout: main
 title: About
 permalink: /about/
 enableMenu: true
+order: 100
 ---
 
 VeganMSP.com is a new project from [Matthew Jorgensen][blog]. Inspired

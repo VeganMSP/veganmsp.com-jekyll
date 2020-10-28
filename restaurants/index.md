@@ -3,6 +3,7 @@ layout: main
 title: Restaurants
 permalink: /restaurants/
 enableMenu: true
+order: 1
 ---
 
 # Restaurants

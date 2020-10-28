@@ -2,6 +2,7 @@
 title: Groups & Links
 permalink: /groups-and-links/
 enableMenu: true
+order: 3
 ---
 
 <h2>Table of Contents</h2>

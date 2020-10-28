@@ -24,3 +24,4 @@ defaults:
     values:
       enableMenu: false
       layout: main
+      order: 0
