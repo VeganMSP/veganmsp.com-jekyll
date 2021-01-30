@@ -96,6 +96,10 @@ li {
 	color: #444;
 }
 
+.recent-posts > .post-stub {
+	padding: 0.2em 0;
+}
+
 .post-stub h2 {
 	font-size: 1.2em;
 }
