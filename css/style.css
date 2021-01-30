@@ -95,3 +95,7 @@ li {
 .text-muted {
 	color: #444;
 }
+
+.post-stub h2 {
+	font-size: 1.2em;
+}
