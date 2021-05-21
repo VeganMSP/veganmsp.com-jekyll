@@ -33,7 +33,14 @@ in vegan treats.”Midway
 organic, scratch made vegan food. Our menu is always changing, we never
 repeat a recipe, if you want to know, you got to go.”
 
+[Reverie Cafe + Bar][reverie] - "Reverie offers an entirely made from
+scratch, plant-based menu for lunch and dinner. We have a full coffee
+bar featuring all the usuals plus house made milk and tea lattes; 20 tap
+lines pouring local brews, ciders, kombucha and switchel; and a
+carefully curated wine menu."
+
 [maydaycafe]:https://eurekacompassveganfood.com/
+[reverie]:https://www.reveriempls.com/
 
 # Uptown
 
