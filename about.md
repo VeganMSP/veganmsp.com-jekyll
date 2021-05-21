@@ -14,7 +14,7 @@ we're always welcome to suggestions! Find something wrong? Feel free to
 
 [blog]:https://jrgnsn.net/
 [veganmke]:https://veganmilwaukee.com/
-[tracker]:https://todo.sr.ht/~mjorgensen/veganmsp.com
+[tracker]:https://github.com/prplecake/veganmsp.com/issues
 
 ## Get in touch!
 
