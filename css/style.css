@@ -10,9 +10,6 @@ body {
 	max-width: 100%;
 }
 
-/*
- *	BEGIN HEADER STYLES
- */
 header {
 	display: grid;
 }
@@ -55,9 +52,6 @@ header .tagline {
 	margin: 0;
 	padding: 0;
 }
-/*
- *	END HEADER STYLES
- */
 
 .container {
 	width: 700px;
