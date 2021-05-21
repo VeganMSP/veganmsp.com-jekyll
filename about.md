@@ -18,7 +18,6 @@ we're always welcome to suggestions! Find something wrong? Feel free to
 
 ## Get in touch!
 
-Join us on IRC: [#veganmsp on freenode][irc-channel]
+Join us on IRC: [#veganmsp on Libera.Chat][irc-channel]
 
-[irc-channel]:https://kiwiirc.com/client/irc.freenode.net/#veganmsp
-
+[irc-channel]:https://kiwiirc.com/client/irc.libera.chat/#veganmsp
