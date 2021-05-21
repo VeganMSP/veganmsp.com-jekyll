@@ -64,6 +64,10 @@ header .tagline {
 	margin: 0 auto;
 }
 
+div.content {
+	margin-bottom: 1em;
+}
+
 .content p,
 .content li {
 	line-height: 1.3em;
@@ -102,4 +106,22 @@ li {
 
 .post-stub h2 {
 	font-size: 1.2em;
+}
+
+div.footer {
+	display: grid;
+	grid-template-columns: 2fr 0.5fr 2fr;
+}
+
+div.footer-col-1 {
+	grid-column-start: 1;
+}
+
+div.footer-col-2 {
+	grid-column-start: 3;
+}
+
+.site-footer {
+	font-size: 0.85em;
+	padding-top: 0.9rem;
 }
