@@ -4,17 +4,10 @@
       {{ include.post.date | date: "%Y-%m-%d" }}
     </span>
     <span class="title">
-      {% if include.post._url %}
-      <a href="{{ include.post._url }}" target="_blank">
-        {{ include.post.title }}
-        <em class="fa fa-external-link"></em>
-      </a>
-      {% else %}
       <a href="{{ include.post.url }}">{{ include.post.title }}</a>
-      {% endif %}
     </span>
   </h2>
-  {% if include.post._url or include.no_excerpt %}
+  {% if include.no_excerpt %}
   {% else %}
   {{ include.post.excerpt | strip_footnotes }}
   {% endif %}
