@@ -7,7 +7,15 @@ more of a CRUD application, I think.
 
 ## Building
 
-TODO: write this section
+**Requirements:**
+
+* ruby
+* bundler
+
+```sh
+$ [sudo] bundle install
+$ bundle exec jekyll build
+```
 
 ## Contributing
 
