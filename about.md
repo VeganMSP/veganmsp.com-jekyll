@@ -22,11 +22,3 @@ Join us on IRC: [#veganmsp on freenode][irc-channel]
 
 [irc-channel]:https://kiwiirc.com/client/irc.freenode.net/#veganmsp
 
-<p class="text-muted">
-    Start a discussion in the
-    <a href="https://lists.sr.ht/~mjorgensen/veganmsp">veganmsp
-    mailing list</a> by sending an email to
-    <a href="mailto:~mjorgensen/veganmsp@lists.sr.ht">~mjorgensen/veganmsp@lists.sr.ht</a> <small style="padding-left: 2px">
-    [<a href="https://man.sr.ht/lists.sr.ht/etiquette.md">mailing list ettiquette</a>]
-    </small>
-</p>
